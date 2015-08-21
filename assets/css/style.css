@@ -1,0 +1,20 @@
+body 
+{
+	/*text-align: center;*/
+	width: 970px;
+	margin: 0 auto 1em;
+	font-family: Arial;
+}
+.container
+{
+	text-align: center;
+	width: 350px;
+}
+
+	.word 
+	{
+		height: 30px;
+		width: 300px;
+		border: 2px solid black;
+		padding: 5px;
+	}
